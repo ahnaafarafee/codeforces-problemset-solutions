@@ -19,7 +19,7 @@ Codeforces solution in C++ language.All of this code are tested in GNU G++17 com
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  gh repo clone ahnaaf-al-rafee/codeforces-problemset-solutions
 ```
 
 Go to the project directory
